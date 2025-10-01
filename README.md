@@ -33,7 +33,7 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![robots.txt shows password](screenShots/robot_txt.png)
 
 ### How I found the login page
-![How I found login page](screenShots/how_i_found_login_page.png)
+![How I found login page](screenShots/how_found_login_page.png)
 
 ### Login / home page
 ![Login & home page](screenShots/login_home_page.png)
@@ -45,16 +45,16 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![Sup3r file in portal](screenShots/ls_in_portal_first_step.png)
 
 ### Ingredient 1 — contents of Sup3rS3cretPickl3Ingred.txt
-![First ingredient (mr. meeseek hair)](screenShots/first_page.png)
+![First ingredient (mr. meeseek hair)](screenShots/found_first_ingr.png)
 
 ### Check /home
-![sudo ls /home](screenShots/sudo_ls_home.png)
+![sudo ls /home](screenShots/sudo_ls _home.png)
 
 ### /home/rick contents
 ![sudo ls /home/rick](screenShots/sudo_ls_home_rick.png)
 
-### Ingredient 2 — second ingredients file
-![Second ingredient (1 jerry tear)](screenShots/third_ingrd.png)
+### Ingredient 2 — second ingredients file 
+![Second ingredient (1 jerry tear)](screenShots/sudo_ls_home_rick.png)
 
 ### whoami (www-data)
 ![whoami shows www-data](screenShots/whoami_www_data.png)
@@ -66,6 +66,6 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![sudo ls -la /root](screenShots/sudo_ls_root.png)
 
 ### Ingredient 3 — /root/3rd.txt
-![Third ingredient (fleeb juice)](screenShots/third_ingrd.png)
+![Third ingredient (fleeb juice)](screenShots/thir_ingrd.png)
 
 ---
