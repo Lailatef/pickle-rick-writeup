@@ -18,11 +18,13 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 
 ## Evidence / Screenshots
 
+![Home Page ](screenShots/step1.png)
+
 ### Nmap scan
 ![Nmap scan output](screenShots/nmap.png)
 
 ### Gobuster / assets discovered
-![Assets listing](screenShots/find assets.png)
+![Assets listing](screenShots/find_assets.png)
 
 ### Assets page 
 ![Assets listing](screenShots/assets.png)
