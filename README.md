@@ -66,6 +66,6 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![sudo ls -la /root](screenShots/sudo_ls_root.png)
 
 ### Ingredient 3 — /root/3rd.txt
-![Third ingredient (fleeb juice)](screenShots/thir_ ingrd.png)
+![Third ingredient (fleeb juice)](screenShots/thir_ingrd.png)
 
 ---
