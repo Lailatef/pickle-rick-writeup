@@ -24,7 +24,7 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![Nmap scan output](images/nmap.png)
 
 ### Gobuster / assets discovered
-![Assets listing](images/find_assets.png)
+![Assets listing](images/find assets.png)
 
 ### Assets page 
 ![Assets listing](images/assets.png)
