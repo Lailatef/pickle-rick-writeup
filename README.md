@@ -39,10 +39,10 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![Login & home page](screenShots/login_home_page.png)
 
 ### Portal — `ls` output (first view)
-![Portal listing - first step](screenShots/ls_in_portal_first_step.png)
+![Portal listing - first step](screenShots/ls_in_portral_first_step.png)
 
 ### File discovered: Sup3rS3cretPickl3Ingred.txt
-![Sup3r file in portal](screenShots/ls_in_portal_first_step.png)
+![Sup3r file in portal](screenShots/ls_in_portral_first_step.png)
 
 ### Ingredient 1 — contents of Sup3rS3cretPickl3Ingred.txt
 ![First ingredient (mr. meeseek hair)](screenShots/found_first_ingr.png)
@@ -66,6 +66,6 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![sudo ls -la /root](screenShots/sudo_ls_root.png)
 
 ### Ingredient 3 — /root/3rd.txt
-![Third ingredient (fleeb juice)](screenShots/thir_ingrd.png)
+![Third ingredient (fleeb juice)](screenShots/thir_ ingrd.png)
 
 ---
