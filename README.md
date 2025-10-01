@@ -1,5 +1,3 @@
-# pickle-rick-writeup
-
 # Pickle Rick Potion — TryHackMe Writeup
 
 **Author:** Laila  
@@ -24,10 +22,10 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![Nmap scan output](images/nmap.png)
 
 ### Gobuster / assets discovered
-![Assets listing](images/find assets.png)
+![Assets discovery](images/find_assets.png)
 
-### Assets page 
-![Assets listing](images/assets.png)
+### Assets page
+![Assets page listing](images/assets.png)
 
 ### robots.txt (password found)
 ![robots.txt shows password](images/robot_txt.png)
@@ -42,10 +40,10 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![Portal listing - first step](images/ls_in_portal_first_step.png)
 
 ### File discovered: Sup3rS3cretPickl3Ingred.txt
-![Sup3r file in portal](images/ls_in_portal_first_step.png)
+![Sup3r file in portal](images/assets.png)
 
 ### Ingredient 1 — contents of Sup3rS3cretPickl3Ingred.txt
-![First ingredient (mr. meeseek hair)](images/first_page.png)
+![First ingredient: mr. meeseek hair](images/first_page.png)
 
 ### Check /home
 ![sudo ls /home](images/sudo_ls_home.png)
@@ -54,20 +52,18 @@ This repository contains my writeup and evidence for the "Pickle Rick" TryHackMe
 ![sudo ls /home/rick](images/sudo_ls_home_rick.png)
 
 ### Ingredient 2 — second ingredients file
-![Second ingredient (1 jerry tear)](images/third_ingrd.png)
+![Second ingredient: 1 jerry tear](images/third_ingrd.png)
 
 ### whoami (www-data)
 ![whoami shows www-data](images/whoami_www_data.png)
 
-### sudo -l (shows NOPASSWD ALL)
+### sudo -l (shows NOPASSWD: ALL)
 ![sudo -l shows NOPASSWD: ALL](images/sudo_ls_www_data.png)
 
 ### Root folder listing
 ![sudo ls -la /root](images/sudo_ls_root.png)
 
 ### Ingredient 3 — /root/3rd.txt
-![Third ingredient (fleeb juice)](images/third_ingrd.png)
+![Third ingredient: fleeb juice](images/third_ingrd.png)
 
 ---
-
-
